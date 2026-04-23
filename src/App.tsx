@@ -24,7 +24,7 @@ const Navbar = () => (
   <nav className="fixed top-0 left-0 w-full h-28 bg-surface/90 backdrop-blur-md border-b border-outline-variant z-50 flex items-center justify-between px-6 md:px-12">
     <div className="flex items-center gap-2">
       <img 
-        src="/logoprimario.png" 
+        src="/logosecundario.png" 
         className="h-24 w-auto scale-110"
         referrerPolicy="no-referrer"
         onError={(e) => {
