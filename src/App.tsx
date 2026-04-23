@@ -85,7 +85,7 @@ const Hero = () => {
         >
           <div className="w-full max-w-xs flex items-center justify-center overflow-hidden">
              <img 
-               src="/logoprimario.png" 
+               src="/logosecundario.png" 
                alt="CLIVIA Logo Central"
                className="w-full h-auto grayscale brightness-50 opacity-20 group-hover:grayscale-0 group-hover:brightness-100 group-hover:opacity-100 transition-all duration-1000 ease-in-out"
                referrerPolicy="no-referrer"
