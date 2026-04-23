@@ -174,7 +174,7 @@ const ProblemSection = () => (
         <div className="p-12 border border-outline rounded-tl-[80px] rounded-br-[80px] bg-on-surface/5 backdrop-blur-sm relative">
            <div className="absolute -top-4 -left-4 text-6xl font-principal text-on-surface/10 leading-none">01</div>
            <p className="text-sm text-on-surface/70 leading-relaxed font-medium">
-             "Todas las empresas son empresas de software."
+             "todas las empresas son empresas de software."
            </p>
         </div>
       </motion.div>
