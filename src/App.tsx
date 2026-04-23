@@ -24,7 +24,7 @@ const Navbar = () => (
   <nav className="fixed top-0 left-0 w-full h-28 bg-surface/90 backdrop-blur-md border-b border-outline-variant z-50 flex items-center justify-between px-6 md:px-12">
     <div className="flex items-center gap-2">
       <img 
-        src="/logosecundario.png" 
+        src="/logoprimario.png" 
         className="h-24 w-auto scale-110"
         referrerPolicy="no-referrer"
         onError={(e) => {
@@ -85,7 +85,7 @@ const Hero = () => {
         >
           <div className="w-full max-w-xs flex items-center justify-center overflow-hidden">
              <img 
-               src="/logoprimario.png" 
+               src="/logosecundario.png" 
                alt="CLIVIA Logo Central"
                className="w-full h-auto grayscale brightness-50 opacity-20 group-hover:grayscale-0 group-hover:brightness-100 group-hover:opacity-100 transition-all duration-1000 ease-in-out"
                referrerPolicy="no-referrer"
